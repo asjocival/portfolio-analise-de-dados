@@ -22,11 +22,14 @@ Exploração e análise de dados utilizando SQL para identificar padrões, clien
 
 ---
 
-### 📊 Projeto 3 — Dashboard no Power BI
+### 📊 Projeto 3 e 4 — Dashboard no Power BI
 Construção de dashboard visual com indicadores de negócio, utilizando DAX e visualizações interativas.
 
 🔗 Acesse o projeto:
-[(projeto-3-powerbi)](https://github.com/asjocival/Dashboard-de-Vendas-no-Power-BI.git)
+[(projeto-3-powerbi)](https://github.com/asjocival/Dashboard-Vendas-2-Power-BI.git)
+
+🔗 Acesse o projeto:
+[(projeto-4-powerbi)](https://github.com/asjocival/Dashboard-de-Vendas-no-Power-BI.git)
 
 ---
 
