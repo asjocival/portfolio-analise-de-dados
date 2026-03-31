@@ -88,5 +88,5 @@ Busco oportunidades para aplicar conhecimentos técnicos na geração de valor p
 
 # 📫 Contato
 
-📎 LinkedIn: (seu link aqui)
-📎 Email: (seu email)
+📎 LinkedIn: [(seu link aqui)](https://www.linkedin.com/in/jocival-almeida-9a724336b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+📎 Email: as.jocival@gmail.com
