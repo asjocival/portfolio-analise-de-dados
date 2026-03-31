@@ -31,7 +31,7 @@ Desenvolvimento de um dashboard completo com foco em análise de desempenho come
 
 Power BI | DAX | Modelagem de Dados
 
-🔗 Acesse o projeto: (https://github.com/asjocival/dashboard-completo-vendas-1-power-BI.git)
+🔗 Acesse o projeto: [(Clique aqui)](https://github.com/asjocival/dashboard-completo-vendas-1-power-BI.git)
 
 ---
 
@@ -45,7 +45,7 @@ Criação de dashboard interativo utilizando tabelas dinâmicas e gráficos para
 * Performance de produtos
 * Indicadores básicos de vendas
 
-🔗 Acesse o projeto: (https://github.com/asjocival/dashboard-vendas-excel.git)
+🔗 Acesse o projeto: [(Clique aqui)](https://github.com/asjocival/dashboard-vendas-excel.git)
 
 
 ---
@@ -60,7 +60,7 @@ Exploração de dados utilizando SQL para identificar padrões de consumo e comp
 * Clientes mais relevantes
 * Segmentação de dados
 
-🔗 Acesse o projeto: (https://github.com/asjocival/sql-analise-vendas.git)
+🔗 Acesse o projeto: [(Clique aqui)](https://github.com/asjocival/sql-analise-vendas.git)
 
 ---
 
@@ -68,9 +68,9 @@ Exploração de dados utilizando SQL para identificar padrões de consumo e comp
 
 Outros projetos focados em visualização de dados e criação de indicadores de negócio.
 
-🔗 Projeto 1: (https://github.com/asjocival/Dashboard-de-Vendas-no-Power-BI.git)
+🔗 Projeto 1: [(Clique aqui)](https://github.com/asjocival/Dashboard-de-Vendas-no-Power-BI.git)
 
-🔗 Projeto 2: (https://github.com/asjocival/Dashboard-Vendas-2-Power-BI.git)
+🔗 Projeto 2: [(Clique aqui)](https://github.com/asjocival/Dashboard-Vendas-2-Power-BI.git)
 
 ---
 
@@ -88,5 +88,5 @@ Busco oportunidades para aplicar conhecimentos técnicos na geração de valor p
 
 # 📫 Contato
 
-📎 LinkedIn: [(seu link aqui)](https://www.linkedin.com/in/jocival-almeida-9a724336b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+📎 LinkedIn: [(Clique aqui)](https://www.linkedin.com/in/jocival-almeida-9a724336b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 📎 Email: as.jocival@gmail.com
