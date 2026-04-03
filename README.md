@@ -68,11 +68,13 @@ Exploração de dados utilizando SQL para identificar padrões de consumo e comp
 
 Outros projetos focados em visualização de dados e criação de indicadores de negócio.
 
-🔗 Projeto 1: [(Dashboard Detalhado para Posto de Gasolina)](https://github.com/asjocival/dashboard-posto-de-gasolina.git)
+🔗 Projeto 1: [(Dashboard Performance Comercial Conectado Diretamente à Base em Excel)](https://github.com/asjocival/dashboard-vendas-atualizacao-automatica-com-planilha-excel.git)
 
-🔗 Projeto 2: [(Dashboard Detalhado para Análise de Vendas)](https://github.com/asjocival/Dashboard-de-Vendas-no-Power-BI.git)
+🔗 Projeto 2: [(Dashboard Detalhado para Posto de Gasolina)](https://github.com/asjocival/dashboard-posto-de-gasolina.git)
 
-🔗 Projeto 3: [(Dashboard Objetivo para Análise de Vendas)](https://github.com/asjocival/Dashboard-Vendas-2-Power-BI.git)
+🔗 Projeto 3: [(Dashboard Detalhado para Análise de Vendas)](https://github.com/asjocival/Dashboard-de-Vendas-no-Power-BI.git)
+
+🔗 Projeto 4: [(Dashboard Objetivo para Análise de Vendas)](https://github.com/asjocival/Dashboard-Vendas-2-Power-BI.git)
 
 ---
 
