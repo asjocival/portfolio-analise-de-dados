@@ -100,4 +100,4 @@ Busco oportunidades para aplicar conhecimentos técnicos na geração de valor p
 
 📎 Email: as.jocival@gmail.com
 
-📎 Telefone: 11 996579-6229
+📎 Telefone: 11 96579-6229
